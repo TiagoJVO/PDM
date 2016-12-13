@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">YAMDA</string>
+
+    <string name="hello_world">Ola Mundo!</string>
+    <string name="action_settings">Definições:</string>
+    <string name="gender_label">Género: </string>
+    <string name="top_button">Topo</string>
+    <string name="soon_button">Brevemente</string>
+    <string name="exhibition_button">Exibição</string>
+    <string name="description_label">Descrição:</string>
+    <string name="rating_label">Pontuação:</string>
+    <string name="release_label">Estreia:</string>
+    <string name="title_activity_splash_screen">Tela do Splash</string>
+    <string name="no_internet_conectivity">Não há conectividade à internet</string>
+    <string name="btn_to_retry_internet_connection">Clica aqui se já tens net</string>
+    <string name="release_date">Data de Lançamento:</string>
+    <string name="Null">Nulo</string>
+    <string name="error_on_get_API_info">Algo correu mal, teste a sua conectividade á internet por favor</string>
+    <string name="error_on_get_Movie_info">Algo correu mal com o informação de um filme, teste a sua conectividade á internet por favor</string>
+    <string name="releaseDate_movieActivity">Estreia</string>
+
+    <string name ="wifiOnly">Apenas com wifi</string>
+
+    <string name ="wifiAndMobileDate">Wifi e dados Móveis</string>
+    <string name="settings_tab">Definições</string>
+    <string name="popular_tab">Populares</string>
+    <string name="no_internet_connection">Não há conecção á internet</string>
+    <string name="followed_movie_released">Filme lançado</string>
+    <string name="now_playing_tab">Em Exibição</string>
+    <string name="up_comming_tab">Brevemente</string>
+    <string name="search_tab">Procura</string>
+    <string name ="type_connection">Escolha o tipo de conecção:</string>
+    <string name = "notifications">Notificações: </string>
+
+    <string name = "timeToRefreshMovies">Tempo para actualizar os filmes: </string>
+    <string name="weekly"> semanalmente</string>
+    <string name = "daily">diário</string>
+</resources>
